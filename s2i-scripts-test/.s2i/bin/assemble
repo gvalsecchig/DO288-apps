@@ -2,7 +2,7 @@
 
 source ${HTTPD_CONTAINER_SCRIPTS_PATH}/common.sh
 
-config_s2i
+#config_s2i
 
 ######## CUSTOMIZATION STARTS HERE ############
 
